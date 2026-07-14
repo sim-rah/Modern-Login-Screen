@@ -34,10 +34,20 @@ Modern-Login-Screen
 ├── settings.gradle
 └── README.md
 ```
+## 📸 Screenshots
 
+> Add screenshots of your application here.
+
+Example:
+
+```
+screenshots/
+├── login_screen.png
+├── home_screen.png
+```
 ## 📸 Preview
 
-![Login Screen](C:\Users\DIGITAL\Pictures\Screenshots)
+![Login Screen](screenshots/login_screen.png)
 
 ## 🚀 Getting Started
 
